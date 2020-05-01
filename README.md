@@ -1,2 +1,3 @@
 # tensorflow_classification
-Classification using tensorflow in google colab
+Classification of flowers dataset using tensorflow in google colab
+augmentation and dropout techniques used to prevent overfitting
