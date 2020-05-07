@@ -11,3 +11,5 @@ Classification of flowers dataset using tensorflow in google colab-->
 4. Sentiment analysis using LSTM, RNN
 
 5. Text generation for songs using NLP and Kaggle songs dataset
+
+6.Neural Machine Translation- using sequence to sequence model
