@@ -8,8 +8,8 @@ Tensorflow in google colab
 
 3.Sentiment analysis using word embeddings
 
-4. Sentiment analysis using LSTM, RNN
+4.Sentiment analysis using LSTM, RNN
 
-5. Text generation for songs using NLP and Kaggle songs dataset
+5.Text generation for songs using NLP and Kaggle songs dataset
 
 6.Neural Machine Translation- using sequence to sequence model
