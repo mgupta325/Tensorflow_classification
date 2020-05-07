@@ -1,10 +1,10 @@
 # tensorflow_Deep Learning tasks
 
-Classification of flowers dataset using tensorflow in google colab-->
+Tensorflow in google colab
 
-1.Augmentation and dropout techniques used to prevent overfitting in classification using CNN
+1.Classification of flowers dataset & Augmentation and dropout techniques used to prevent overfitting in classification using CNN
 
-2.Also trained using Mobilenet for transfer style learning for increasing accuracy
+2.Classification of flowers datasetAlso trained using Mobilenet for transfer style learning for increasing accuracy
 
 3.Sentiment analysis using word embeddings
 
